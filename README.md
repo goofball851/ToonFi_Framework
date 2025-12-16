@@ -12,7 +12,7 @@ A casual framework for cartoon worlds, experiments, and internet-native play gen
 
 ToonFi is a loose framework for building cartoon-driven worlds where characters, gadgets, and systems change over time through interactive storytelling.
 
-Fi = Focused Interactions
+`Fi = Focused Interactions`
 
 So instead of cartoons mixed with decentralized finance, it is anything Web2 and Web3 related that uses Toon Focused Interactions.
 
