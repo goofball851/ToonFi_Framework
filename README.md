@@ -4,7 +4,7 @@
 
 # 🧪 ToonFi Framework
 
-A casual framework for cartoon worlds, experiments, and internet-native play.
+A casual framework for cartoon worlds, experiments, and internet-native play generated with the assistancve of ChatGPT.
 
 ---
 
