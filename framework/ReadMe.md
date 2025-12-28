@@ -38,12 +38,12 @@ Each file focuses on a different part of the framework:
 
 - `Evolution Models`  
   How things change over time instead of leveling up.
+
+  - `Lab Cycles`  
+  How ToonFi uses cycles to keep systems from becoming static.
   
 - `Interaction Layers` 
   Different ways people might interact with ToonFi — from just looking around to owning things.
-
-- `Lab Cycles`  
-  How ToonFi uses cycles to keep systems from becoming static.
 
 ---
 
