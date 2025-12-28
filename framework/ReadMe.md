@@ -8,11 +8,6 @@ This folder contains the core ideas behind the ToonFi framework.
 Nothing here is meant to be final or perfectly defined.
 These files describe how things *tend* to work, not how they must work.
 
-Think of this folder as:
-- A shared vocabulary
-- A set of patterns
-- A reference point for future experiments
-
 ---
 
 ## What You’ll Find Here
