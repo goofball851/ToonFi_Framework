@@ -16,32 +16,31 @@ Think of this folder as:
 
 Each file focuses on a different part of the framework:
 
-- **core_principles.md**  
+- `Core Principles`  
   The general mindset behind ToonFi.  
   These ideas guide decisions more than they enforce rules.
   
-- **interactive_lore.md**  
+- `Interactive Lore` 
   How ToonFi treats stories as finished, but characters as ongoing.
   This is the emotional core of the framework.
 
-- **interaction_layers.md**  
-  Different ways people might interact with ToonFi — from just looking around to owning things.
-
-- **coins.md**  
+- `NFTs`  
+  How NFTs behave more like objects or characters than collectibles.
+  
+- `Coins`  
   How in-world coins are treated as interaction tools, not currency.
 
-- **nfts.md**  
-  How NFTs behave more like objects or characters than collectibles.
-
-- **dna_access_pass.md**  
+- `DNA Access Pass`  
   A high-level look at the DNA Access Pass and what it represents.
 
-- **evolution_models.md**  
+- `Evolution Models`  
   How things change over time instead of leveling up.
+  
+- `Interaction Layers` 
+  Different ways people might interact with ToonFi — from just looking around to owning things.
 
-- **lab_cycles.md**  
+- `Lab Cycles`  
   How ToonFi uses cycles to keep systems from becoming static.
-
 
 ---
 
