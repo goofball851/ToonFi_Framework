@@ -1,5 +1,8 @@
 # Framework
 
+<img width="500" height="500" alt="DALL·E 2025-12-28 14 27 40 - A whimsical, storybook-style illustrated title card featuring the word &#39;FRAMEWORK&#39; made of carved, chunky wooden letters  The wooden letters are sligh" src="https://github.com/user-attachments/assets/76c9e15b-f9ce-43fd-bc6a-bce8a404389e" />
+
+
 This folder contains the core ideas behind the ToonFi framework.
 
 Nothing here is meant to be final or perfectly defined.
