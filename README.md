@@ -70,6 +70,10 @@ Jump around.
 
 ---
 
+## Updates
+
+- added Interactive Lore 
+
 ## Final Note
 
 ToonFi isn’t one thing.
