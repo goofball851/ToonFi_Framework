@@ -1,5 +1,7 @@
 # Web Example — Glimpse UI
 
+<img width="400" height="400" alt="Gemini_Generated_Image_ylodv4ylodv4ylod" src="https://github.com/user-attachments/assets/0a66bb7a-3490-490a-a199-acaeebce2bf5" />
+
 This example demonstrates a Narrative Layer–compliant web interface.
 
 ---
