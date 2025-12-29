@@ -1,0 +1,39 @@
+{
+  "name": "NLS Example — Glimpse Subject #001",
+  "description": "Post-story persistence container. Canon is complete; this reveals continuing existence.",
+  "image": "ipfs://.../image.png",
+  "attributes": [
+    { "trait_type": "NLS", "value": "Narrative Layer Stack v1.0" },
+    { "trait_type": "Existence State", "value": "Echo" }
+  ],
+  "nls": {
+    "storyBoundary": {
+      "label": "Canon Episode 01 — Final Cut",
+      "ref": "ipfs://.../canon-boundary.json",
+      "locked": true
+    },
+    "state": {
+      "type": "Echo",
+      "mood": "restless-calm",
+      "awareness": "ambient",
+      "driftSeed": 482991
+    },
+    "observations": [
+      "It drifts when ignored.",
+      "It notices you last.",
+      "It keeps going when the tab is quiet."
+    ],
+    "unlocks": [
+      {
+        "kind": "room",
+        "label": "Side Angle Glimpse",
+        "ref": "ipfs://.../room-side-angle.json"
+      }
+    ],
+    "rules": {
+      "canonMutable": false,
+      "userAuthority": "none",
+      "payToControl": false
+    }
+  }
+}
