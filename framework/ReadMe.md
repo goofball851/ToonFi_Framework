@@ -15,8 +15,7 @@ These files describe how things *tend* to work, not how they must work.
 Each file focuses on a different part of the framework:
 
 - `Core Principles`  
-  The general mindset behind ToonFi.  
-  These ideas guide decisions more than they enforce rules.
+  The general mindset behind ToonFi
   
 - `Interactive Lore` 
   How ToonFi treats stories as finished, but characters as ongoing.
