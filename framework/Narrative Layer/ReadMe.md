@@ -1,6 +1,7 @@
 # Narrative Layer Stack (NLS)
 
-<img width="500" height="500" alt="Gemini_Generated_Image_xh3xg2xh3xg2xh3x" src="https://github.com/user-attachments/assets/243a18eb-67a9-4b8f-8432-5c70d92d050a" />
+<img width="500" height="500" alt="DALL·E 2025-12-29 11 56 02 - A whimsical, high-quality fantasy illustration in a cartoony, storybook visual style similar to The ToonFi Chronicles  The words &#39;NARRATIVE LAYER&#39; app" src="https://github.com/user-attachments/assets/d35da877-eb5b-4e10-a3ac-ee5df0c49583" />
+
 
 A framework layer for building character- and world-based experiences where  
 **stories end, but existence continues**.
