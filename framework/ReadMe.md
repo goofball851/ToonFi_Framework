@@ -45,6 +45,9 @@ Each file focuses on a different part of the framework:
   
 - `Interaction Layers` 
   Different ways people might interact with ToonFi — from just looking around to owning things.
+  
+- `Narrative Layer`
+  Different ways stories are told with ToonFi - from web interactions to digital media.
 
 ---
 
