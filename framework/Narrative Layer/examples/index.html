@@ -1,0 +1,44 @@
+---
+
+# Example Implementations
+
+## 1) Web Example — “Glimpse UI” (static image → continuous motion)
+**Goal:** A single image that becomes “alive” through *witness interactions* (hover, time drift, perspective reveal), without turning into a gallery or a “play animation” button.
+
+### Minimal implementation idea
+- Background: your static character image
+- Layered hotspots (eyes, floating elements, etc.)
+- Hover = awareness shift
+- Click = perspective change (zoom/reframe)
+- Time = slow drift + “revisit ≠ repeat” seed
+
+#### `examples/web-glimpse-ui/index.html`
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NLS Web Example — Glimpse UI</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="stage" aria-label="Narrative Layer Glimpse UI">
+    <figure class="glimpse" id="glimpse">
+      <img class="base" src="image.jpg" alt="Character glimpse" />
+
+      <!-- Hotspots are NOT buttons. They are "attention zones". -->
+      <div class="hotspot" data-zone="left-eye" style="left:42%; top:28%; width:10%; height:10%;"></div>
+      <div class="hotspot" data-zone="right-eye" style="left:56%; top:34%; width:12%; height:12%;"></div>
+      <div class="hotspot" data-zone="float-1" style="left:52%; top:6%; width:14%; height:14%;"></div>
+
+      <!-- Observation panel: discovered context (not labels, not controls) -->
+      <figcaption class="observe" id="observe">
+        Hover to “notice.” Click to reframe. Leave it open to drift.
+      </figcaption>
+    </figure>
+  </main>
+
+  <script src="nls.js"></script>
+</body>
+</html>
