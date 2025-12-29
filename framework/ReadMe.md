@@ -22,6 +22,8 @@ Each file focuses on a different part of the framework:
   How ToonFi treats stories as finished, but characters as ongoing.
   This is the emotional core of the framework.
 
+**Collectibles**
+
 - `NFTs`  
   How NFTs behave more like objects or characters than collectibles.
   
@@ -31,11 +33,15 @@ Each file focuses on a different part of the framework:
 - `DNA Access Pass`  
   A high-level look at the DNA Access Pass and what it represents.
 
+**Experiments**
+
 - `Evolution Models`  
   How things change over time instead of leveling up.
 
 - `Lab Cycles`  
   How ToonFi uses cycles to keep systems from becoming static.
+
+  **Layers**
   
 - `Interaction Layers` 
   Different ways people might interact with ToonFi — from just looking around to owning things.
