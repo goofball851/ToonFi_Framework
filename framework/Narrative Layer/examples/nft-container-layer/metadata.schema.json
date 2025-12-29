@@ -1,0 +1,132 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Narrative Layer Stack NFT Metadata Schema",
+  "description": "Schema for NFTs that act as post-story existence containers under the Narrative Layer Stack specification.",
+  "type": "object",
+  "required": ["name", "description", "image", "nls"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Display name of the NFT."
+    },
+    "description": {
+      "type": "string",
+      "description": "Human-readable description of the NFT's post-story role."
+    },
+    "image": {
+      "type": "string",
+      "description": "Primary image URI (IPFS, HTTPS, etc.)."
+    },
+    "attributes": {
+      "type": "array",
+      "description": "Optional marketplace attributes.",
+      "items": {
+        "type": "object",
+        "required": ["trait_type", "value"],
+        "properties": {
+          "trait_type": { "type": "string" },
+          "value": { "type": ["string", "number"] }
+        }
+      }
+    },
+    "nls": {
+      "type": "object",
+      "description": "Narrative Layer Stack container data.",
+      "required": ["storyBoundary", "state", "rules"],
+      "properties": {
+        "storyBoundary": {
+          "type": "object",
+          "required": ["label", "ref", "locked"],
+          "properties": {
+            "label": {
+              "type": "string",
+              "description": "Human-readable identifier for the completed canon."
+            },
+            "ref": {
+              "type": "string",
+              "description": "URI or hash referencing the canonical story boundary."
+            },
+            "locked": {
+              "type": "boolean",
+              "const": true,
+              "description": "Must always be true. Canon cannot be mutable."
+            }
+          }
+        },
+        "state": {
+          "type": "object",
+          "required": ["type", "driftSeed"],
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": ["Echo", "Reframe", "Displacement"],
+              "description": "Post-story existence state."
+            },
+            "mood": {
+              "type": "string",
+              "description": "Optional mood descriptor."
+            },
+            "awareness": {
+              "type": "string",
+              "description": "Optional awareness or attention state."
+            },
+            "driftSeed": {
+              "type": "integer",
+              "description": "Seed used to create revisit ≠ repeat behavior."
+            }
+          }
+        },
+        "observations": {
+          "type": "array",
+          "description": "Additive, non-authoritative observations about the character or item.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unlocks": {
+          "type": "array",
+          "description": "Optional additional 'rooms' or perspectives.",
+          "items": {
+            "type": "object",
+            "required": ["kind", "label", "ref"],
+            "properties": {
+              "kind": {
+                "type": "string",
+                "enum": ["room", "perspective", "artifact", "annotation"]
+              },
+              "label": {
+                "type": "string",
+                "description": "Human-readable name of the unlock."
+              },
+              "ref": {
+                "type": "string",
+                "description": "URI or hash pointing to the unlocked content."
+              }
+            }
+          }
+        },
+        "rules": {
+          "type": "object",
+          "required": ["canonMutable", "userAuthority", "payToControl"],
+          "properties": {
+            "canonMutable": {
+              "type": "boolean",
+              "const": false,
+              "description": "Canon must never be mutable."
+            },
+            "userAuthority": {
+              "type": "string",
+              "enum": ["none"],
+              "description": "Users must not have narrative authority."
+            },
+            "payToControl": {
+              "type": "boolean",
+              "const": false,
+              "description": "Pay-to-control mechanics are forbidden."
+            }
+          }
+        }
+      }
+    }
+  }
+}
