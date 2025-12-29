@@ -41,7 +41,7 @@ Each file focuses on a different part of the framework:
 - `Lab Cycles`  
   How ToonFi uses cycles to keep systems from becoming static.
 
-  **Layers**
+**Layers**
   
 - `Interaction Layers` 
   Different ways people might interact with ToonFi — from just looking around to owning things.
