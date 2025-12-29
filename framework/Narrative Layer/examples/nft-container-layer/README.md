@@ -1,5 +1,7 @@
 # NFT Example — Container Layer
 
+<img width="400" height="400" alt="Gemini_Generated_Image_vwd1fxvwd1fxvwd1" src="https://github.com/user-attachments/assets/9d559ee2-11ba-443e-a2fd-0443ae0247e7" />
+
 This example defines an NFT as a **post-story existence container**.
 
 This does a few important things:
