@@ -1,5 +1,4 @@
 # Narrative Layer Stack (NLS)
-**v1.0 — Publishable Specification**
 
 <img width="500" height="500" alt="Gemini_Generated_Image_xh3xg2xh3xg2xh3x" src="https://github.com/user-attachments/assets/243a18eb-67a9-4b8f-8432-5c70d92d050a" />
 
