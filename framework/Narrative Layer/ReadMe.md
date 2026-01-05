@@ -3,7 +3,7 @@
 <img width="500" height="500" alt="DALL·E 2025-12-29 11 56 02 - A whimsical, high-quality fantasy illustration in a cartoony, storybook visual style similar to The ToonFi Chronicles  The words &#39;NARRATIVE LAYER&#39; app" src="https://github.com/user-attachments/assets/d35da877-eb5b-4e10-a3ac-ee5df0c49583" />
 
 
-A framework layer for building character- and world-based experiences where  
+A framework layer for building character and world-based experiences where  
 **stories end, but existence continues**.
 
 This repository defines a **logic standard**, not a style guide.
@@ -32,9 +32,7 @@ It does **not**:
 
 ## Core Promise
 
-> **Stories are finite.  
-> Characters are persistent.  
-> Interaction reveals—never directs.**
+> **Stories end, but Existence continues.**
 
 ---
 
