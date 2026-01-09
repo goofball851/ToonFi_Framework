@@ -1,7 +1,6 @@
 
 <img width="1195" height="710" alt="DALL·E 2025-11-23 23 24 51 - A sketchbook-style title screen for &#39;The ToonFi Chronicles&#39; drawn on storyboard or animation paper  The scene looks like a rough but artistic storyboa" src="https://github.com/user-attachments/assets/8163706f-35ea-4c84-9bd0-48075acc2e52" />
 
-
 # 🧪 ToonFi Framework
 
 A casual framework for cartoon worlds, experiments, and internet-native play generated with the assistancve of ChatGPT.
