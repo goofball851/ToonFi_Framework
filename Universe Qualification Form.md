@@ -27,7 +27,7 @@ Primary mode (choose one or more):
 
 **One-sentence legend:**  
 
-> “____________________________________________”
+ “____________________________________________”
 
 Must be:
 - [ ] Easily explainable  
