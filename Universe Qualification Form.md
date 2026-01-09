@@ -1,16 +1,15 @@
 
-# 🧬 TOONFI UNIVERSE QUALIFICATION FORM
+# 🧬 ToonFi Universe QUALIFICATION FORM
 
 <img width="500" height="500" alt="questionMark3" src="https://github.com/user-attachments/assets/c23da403-c0eb-47d3-a5e6-2550ea580e47" />
-
 
 Use this form to evaluate and design any universe before it enters the ToonFi ecosystem.  
 If a section can’t be filled clearly, the universe is not ready.
 
 ---
 
-## TOONFI AUDIENCE
-*(Which broadcast / experience lane this universe belongs to)*
+## ToonFi AUDIENCE
+*(Which lane this universe belongs to)*
 
 Primary mode (choose one or more):
 
@@ -214,7 +213,7 @@ This universe can grow through:
 
 ---
 
-## 10. TOONFI GREENLIGHT
+## 10. ToonFi GREENLIGHT
 
 - [ ] Core fantasy is strong  
 - [ ] Entry point is simple  
