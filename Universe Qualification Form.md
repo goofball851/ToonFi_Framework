@@ -126,7 +126,7 @@ This universe can support:
 - [ ] evolving world rules  
 
 **Underlying themes (if any):**  
-> __________________________________________________
+ "__________________________________________________"
 
 Rule:  
 Teen and late‑night universes must work **symbolically**, not just literally.
@@ -136,7 +136,7 @@ Teen and late‑night universes must work **symbolically**, not just literally.
 ## 6. VISUAL LOGIC  
 *(Why it looks cool forever)*
 
-> __________________________________________________
+ "__________________________________________________"
 
 Rule:  
 You should be able to design 100 locations or scenes and none feel off‑brand.
@@ -159,11 +159,11 @@ This universe must clearly support at least **three:**
 
 **Explain how at least three work:**  
 
-> ____________________________________________
+ "____________________________________________"
 
-> ____________________________________________
+ "____________________________________________"
 
-> ____________________________________________
+ "____________________________________________"
 
 ---
 
@@ -172,7 +172,7 @@ This universe must clearly support at least **three:**
 
 **Single object that represents the world:**  
 
-> ___________________________
+ "___________________________"
 
 **Single shape/symbol for branding:**  
 
@@ -180,11 +180,11 @@ This universe must clearly support at least **three:**
 
 
 
-> ___________________________
+ "___________________________"
 
 **One word people associate with it:**  
 
-> ___________________________
+ "___________________________"
 
 Rule:  
 If it can’t work as an app icon, sticker, or animated bumper, it’s not ready.
@@ -209,7 +209,7 @@ This universe can grow through:
 
 **Describe the long‑term loop:**  
 
-> ____________________________________________
+ "____________________________________________"
 
 ---
 
