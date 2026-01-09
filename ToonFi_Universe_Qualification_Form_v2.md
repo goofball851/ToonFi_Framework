@@ -1,15 +1,15 @@
 
-# 🧬 TOONFI UNIVERSE QUALIFICATION FORM v2  
-### (Kids, Teen, & Late‑Night Cartoon Universes)
+# 🧬 TOONFI UNIVERSE QUALIFICATION FORM
+
+<img width="500" height="500" alt="questionMark3" src="https://github.com/user-attachments/assets/c23da403-c0eb-47d3-a5e6-2550ea580e47" />
+
 
 Use this form to evaluate and design any universe before it enters the ToonFi ecosystem.  
-This version supports **kids cartoons, teen cartoons, and late‑night animation.**
-
 If a section can’t be filled clearly, the universe is not ready.
 
 ---
 
-## 0. TOONFI MODE  
+## TOONFI AUDIENCE
 *(Which broadcast / experience lane this universe belongs to)*
 
 Primary mode (choose one or more):
@@ -19,31 +19,29 @@ Primary mode (choose one or more):
 - [ ] Late‑Night / Surreal / Experimental  
 - [ ] Mixed / Evolves by time or platform  
 
-**Target emotional age:** __________________________
+**Target age:** __________________________
 
 ---
 
 ## 1. CORE FANTASY  
-*(The myth or hook people would repeat)*
+*(The myth characters would repeat)*
 
-**One‑sentence legend:**  
-> “________________________________________________”
+**One-sentence legend:**  
+
+> “____________________________________________”
 
 Must be:
 - [ ] Easily explainable  
 - [ ] Repeatable as a rumor, hook, or concept  
 - [ ] Open‑ended  
-- [ ] Not dependent on a main plot  
-
-Rule:  
-A kid, teen, or late‑night viewer should understand it in one breath.
+- [ ] Not dependent on a main plot 
 
 ---
 
-## 2. ENTRY POINT  
-*(How the universe is accessed)*
+## 2. CHARACTER ENTRY POINT  
+*(How they physically get in)*
 
-**Primary entry object/place/interface:**  
+**Primary entry object/place:**  
 - [ ] couch  
 - [ ] drawer  
 - [ ] locker  
@@ -54,18 +52,19 @@ A kid, teen, or late‑night viewer should understand it in one breath.
 - [ ] environment  
 - [ ] other: ____________________
 
-**How it’s encountered:**  
-- [ ] boredom  
-- [ ] accident  
-- [ ] curiosity  
-- [ ] rumor  
+
+**Why characters encounter it:**  
 - [ ] after school  
+- [ ] boredom  
+- [ ] curiosity  
+- [ ] accident  
+- [ ] rumor  
+- [ ] dare  
 - [ ] late‑night wandering  
 - [ ] digital discovery  
 - [ ] emotional trigger  
 
-Rule:  
-It must feel **discoverable**, not destiny‑based.
+Rule: It must feel * discoverable*, not destiny-based.
 
 ---
 
@@ -75,18 +74,17 @@ It must feel **discoverable**, not destiny‑based.
 Every ToonFi universe needs at least **three generators.**
 
 **Generator A:** ______________________________  
-*(places, artifacts, creatures, objects, zones, interfaces, etc.)*
+*(places, artifacts, creatures, objects, zones, etc.)*
 
 **Generator B:** ______________________________  
-*(conflicts, dares, rumors, experiments, myths, distortions, themes, etc.)*
+*(conflicts, dares, rumors, experiments, myths, mutations, themes, etc.)*
 
 **Generator C:** ______________________________  
 *(factions, evolutions, jobs, powers, timelines, aesthetics, etc.)*
 
 **Optional Generator D:** _____________________
 
-Rule:  
-If you can’t imagine a random button for it, it’s not a generator.
+Rule: If you can’t imagine a randomize button for it, it’s not a generator.
 
 ---
 
@@ -106,11 +104,12 @@ Primary tones (check all that apply):
 - [ ] unsettling  
 - [ ] introspective  
 - [ ] absurd  
-- [ ] creepy‑fun  
+- [ ] competitive  
+- [ ] creepy-fun  
 - [ ] heartfelt  
 
 **Core audience feeling:**  
-“When people experience this, they feel ______________________________.”
+“When kids watch this, they feel ______________________________.”
 
 ---
 
@@ -138,19 +137,7 @@ Teen and late‑night universes must work **symbolically**, not just literally.
 ## 6. VISUAL LOGIC  
 *(Why it looks cool forever)*
 
-**What everything is built from:**  
 > __________________________________________________
-
-**What can exaggerate endlessly:**  
-- [ ] scale  
-- [ ] texture  
-- [ ] anatomy  
-- [ ] materials  
-- [ ] physics  
-- [ ] UI / symbols  
-- [ ] mixed styles  
-- [ ] graphic design  
-- [ ] lighting / mood  
 
 Rule:  
 You should be able to design 100 locations or scenes and none feel off‑brand.
@@ -169,10 +156,15 @@ This universe must clearly support at least **three:**
 - [ ] Story logs / archives  
 - [ ] Evolution systems  
 - [ ] Physical packaging experiences  
-- [ ] Experimental digital experiences  
+- [ ] Experimental digital experiences 
 
 **Explain how at least three work:**  
-> __________________________________________________
+
+> ____________________________________________
+
+> ____________________________________________
+
+> ____________________________________________
 
 ---
 
@@ -180,12 +172,19 @@ This universe must clearly support at least **three:**
 *(Brand survival check)*
 
 **Single object that represents the world:**  
+
 > ___________________________
 
-**Single symbol/shape for branding:**  
+**Single shape/symbol for branding:**  
+
+
+
+
+
 > ___________________________
 
 **One word people associate with it:**  
+
 > ___________________________
 
 Rule:  
@@ -202,27 +201,27 @@ This universe can grow through:
 - [ ] new artifacts  
 - [ ] new creatures  
 - [ ] evolving maps  
-- [ ] seasonal shifts  
-- [ ] audience interaction  
+- [ ] seasonal changes  
+- [ ] audience interaction 
 - [ ] live updates  
 - [ ] experiments  
 - [ ] crossovers  
-- [ ] format shifts (kids → teen → late‑night)  
+- [ ] format shifts (kids → teen → late‑night) 
 
 **Describe the long‑term loop:**  
-> __________________________________________________
+
+> ____________________________________________
 
 ---
 
 ## 10. TOONFI GREENLIGHT
 
 - [ ] Core fantasy is strong  
-- [ ] Entry point is intuitive  
+- [ ] Entry point is simple  
 - [ ] World engine is expandable  
-- [ ] Emotional range is clear  
-- [ ] Visual identity is scalable  
+- [ ] Visual identity is clear  
 - [ ] Supports ToonFi stack  
-- [ ] Icon passes recognition test  
+- [ ] Icon passes sticker test  
 
 **Status:**  
 - [ ] Approved for ToonFi  
@@ -231,5 +230,5 @@ This universe can grow through:
 
 ---
 
-*ToonFi Framework – Universe Evaluation Form v2*  
+*ToonFi Framework – Universe Evaluation Form v1*
 *Supports Kids, Teen, and Late‑Night cartoon universes.*
