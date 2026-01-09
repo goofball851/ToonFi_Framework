@@ -72,7 +72,8 @@ Jump around.
 
 ## Updates
 
-- added Interactive Lore 
+- added Interactive Lore
+- added Project Qualifications Form
 
 ## Final Note
 
