@@ -75,3 +75,20 @@ ToonFi worlds are narrative engines.
 
 ## 3. ToonFi Layer Model
 
+**SOCIAL LAYER**
+Clips, loops, memes, live scenes
+
+**INTERFACE LAYER**
+Sites, maps, rooms, viewers
+
+**PHENOMENA LAYER**
+Events, experiments, world systems
+
+**NARRATIVE LAYER**
+Lore, logs, memory, canon
+
+**OBJECT LAYER**
+Characters, creatures, devices, zones
+
+**IDENTITY LAYER**
+Profiles, collectibles, continuity
