@@ -92,3 +92,97 @@ Characters, creatures, devices, zones
 
 **IDENTITY LAYER**
 Profiles, collectibles, continuity
+
+---
+
+## 4. ToonFi Objects
+
+A ToonFi object is not art.  
+It is a **living entity.**
+
+It may include:
+
+- visual form  
+- idle behavior  
+- multiple states  
+- interaction  
+- memory  
+- system relationships  
+- change over time  
+
+Examples: characters, devices, organisms, signals, locations, artifacts.
+
+---
+
+## 5. ToonFi Phenomena
+
+A phenomenon is **something that happens in the world.**
+
+It:
+
+- exists over time  
+- passes through phases  
+- hosts objects  
+- produces outcomes  
+- leaves residue  
+
+Phenomena make worlds feel alive.
+
+---
+
+## 6. ToonFi Cartoons
+
+A ToonFi-compatible cartoon is a **window into a ToonFi world.**
+
+Episodes may:
+
+- unlock locations  
+- activate systems  
+- introduce roaming entities  
+- canonize events  
+- seed collectibles  
+
+---
+
+## 7. What Makes Something ToonFi-Compatible
+
+A project is ToonFi-compatible if it:
+
+- treats its site as a world  
+- treats characters as inhabitants  
+- treats collectibles as objects  
+- treats lore as spatial  
+- treats episodes as discoveries  
+- allows continuity to form  
+- supports expansion across formats
+
+---
+
+## 8. Design Philosophy
+
+- World before content  
+- Place before playlist  
+- Living before static  
+- Systems before pages  
+- Exploration before feeds  
+- Ownership as memory  
+- Cartoons as environments  
+
+---
+
+## 9. Core Promise
+
+ToonFi does not ask:
+
+“What happens in this episode?”
+
+It asks:
+
+“What kind of place is this cartoon?”
+
+---
+
+## 10. One-Sentence Definition
+
+**ToonFi is a genre of interactive cartoons where NFT collections become explorable worlds and stories are discovered by inhabiting them.**
+
