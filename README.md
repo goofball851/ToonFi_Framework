@@ -12,10 +12,7 @@ ToonFi is a loose framework for building cartoon-driven worlds where characters,
 
 Instead of encountering a collection as a gallery, a mint page, or a feed of images, ToonFi presents it as a **place**.
 
-A visitor doesn’t start with assets.  
-They start by **entering a world.**
-
-Inside that world, they can:
+Inside that place, they can:
 
 - explore environments  
 - meet characters  
@@ -65,7 +62,7 @@ The site itself becomes part of the storytelling.
 ## 🧬 The Role of NFTs
 
 In ToonFi, NFTs are not the content.  
-They are **keys, companions, collectibles, and memory.**
+They are **keys, companions, collectibles, and memories.**
 
 They can:
 
@@ -151,8 +148,6 @@ This repo may include:
 - documentation for ToonFi-compatible worlds and tools
 
 ---
-
-*ToonFi turns cartoon collections into places to go.*
 
 
 ## How to Read This Repo
